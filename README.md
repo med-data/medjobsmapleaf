@@ -4,7 +4,8 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://med-data.github.io/medjobsmapleaf/
+- Leaflet Map https://med-data.github.io/medjobsmapleaf
+
 - Google Sheets template https://docs.google.com/spreadsheets/d/1G3vP05V7brZM_4Crs-Y00qZQgamA-NuZKoyjDtMpuuU/edit#gid=0
 
 ## Create your own
